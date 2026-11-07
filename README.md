@@ -1,16 +1,13 @@
-## Hi there 👋
+# Oi, eu sou o Vitor
 
-<!--
-**VitorMarquezz/VitorMarquezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudo Ciência da Computação e estou procurando estágio em desenvolvimento
+full stack. Comecei pelo front-end com JavaScript e React, e hoje estou
+aprofundando o back-end com Node.js, APIs e banco de dados.
 
-Here are some ideas to get you started:
+ovitormarquez@gmail.com · [LinkedIn](https://www.linkedin.com/in/vitor-marquez-32a5703b6/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que uso nos meus projetos
+
+**Front-end:** JavaScript, React, HTML e CSS
+**Back-end:** Node.js, Express, APIs REST, autenticação com JWT e bcrypt, Swagger
+**Ba
