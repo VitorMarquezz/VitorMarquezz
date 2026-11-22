@@ -8,6 +8,5 @@ ovitormarquez@gmail.com · [LinkedIn](https://www.linkedin.com/in/vitor-marquez-
 
 ## Tecnologias que uso nos meus projetos
 
-**Front-end:** JavaScript, React, HTML e CSS
-**Back-end:** Node.js, Express, APIs REST, autenticação com JWT e bcrypt, Swagger
-**Ba
+**Front-end:** JavaScript, ReactJS, HTML e CSS
+**Back-end:** Node.js, Express, APIs REST, autenticação com JWT e bcrypt, Swagger, Prisma
